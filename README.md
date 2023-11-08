@@ -26,15 +26,14 @@ JDK版本：1.8
 项目管理：Maven
 Node版本：14
 #### 四、运行截图（点图片可放大）
-![1698300199869](https://github.com/666bears/teamings/assets/143094776/a3bdbb0d-04af-4b3e-94e9-3c119cd50ed0)
-![1698300247277](https://github.com/666bears/teamings/assets/143094776/c24049ab-7ad6-421a-bdb8-9e2cf195c952)
-![1698301506955](https://github.com/666bears/teamings/assets/143094776/2a178138-2fe0-4544-af66-591cc47cb244)
-![1698301552430](https://github.com/666bears/teamings/assets/143094776/d4b1dc31-4607-4478-bd40-a3c9bf0e1b89)
-![1698302763591](https://github.com/666bears/teamings/assets/143094776/57319ed1-d18e-4ff9-bf80-1bb976437767)
-![1698302827550](https://github.com/666bears/teamings/assets/143094776/d2146b7a-4fc8-4d15-b071-9f476a0a4584)
-![1698302827550](https://github.com/666bears/teamings/assets/143094776/b541a36f-f834-4cf6-b620-caa88b3163bf)
-![1698303601851](https://github.com/666bears/teamings/assets/143094776/146d8814-f9ef-4e68-9fb9-f9d6288bbab8)
-
+![R Q)Z{MNDMJI5OR{$ S@585](https://github.com/666bears/teamings/assets/143094776/3b7ca295-dc1d-46be-b1fe-66bd4e490fbb)
+![6(J_L0BIEUM86~$4CYLU7{O](https://github.com/666bears/teamings/assets/143094776/73403de9-97f7-49c2-90c7-61f4d6ec3d4b)
+![FD@ZXN5FQ%YQH` GTKJDYRY](https://github.com/666bears/teamings/assets/143094776/40cc7944-9b04-473e-8d81-09a747a0dfc9)
+![S91$A})YA)ASV7ZDMK(%~JJ](https://github.com/666bears/teamings/assets/143094776/82dff322-fc09-4af3-abdc-2b0ebf293c76)
+![YRO{V@$ L 5124@00$(R GW](https://github.com/666bears/teamings/assets/143094776/e7b326b0-0cf6-4586-85d6-861e75ff3403)
+![FD@ZXN5FQ%YQH` GTKJDYRY](https://github.com/666bears/teamings/assets/143094776/3a5254e2-dce4-43dc-bbb2-04d5300ce0fc)
+![LBKWIHEO9`QVWFF6`R8OBRC](https://github.com/666bears/teamings/assets/143094776/198afe7f-839d-4d38-b0fa-9d398c91fc7a)
+![1675937967759](https://github.com/666bears/teamings/assets/143094776/4147f7fa-0d16-4714-b035-6f360fd9967b)
 
 
 #### 五、安装教程
@@ -46,7 +45,7 @@ Node版本：14
 
 启动项目
 #### 六、获取地址
-#### 获取地址&视频演示：https://www.666bear.com/3400.html
+#### 获取地址&视频演示：https://www.666bear.com/1564.html
 
 #### 接毕业设计和论文
 #### 接网站建设、小程序、H5、APP、各种系统等
